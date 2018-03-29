@@ -1,4 +1,4 @@
-FROM ubuntu:wily
+FROM ubuntu:xenial
 MAINTAINER Jakob Jarosch <dev@jakobjarosch.de>
 
 RUN apt-get update && \
